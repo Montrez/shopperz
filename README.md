@@ -13,7 +13,7 @@ Used Spring Initializer to create a Spring boot project:
 - Spring boot : Spring 2.3.0
 - Dependencies: Spring Web
 
-Now inside of your project we will create a new package under /src/main/java named "resource". 
+Now inside of your project we will create a new package under /src/main/java/helloSpring/spring/security/ named "resource". 
 
 Inside of this package create a java class named "HelloResource" that is structured as follows:
 
